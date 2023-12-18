@@ -18,3 +18,4 @@ C:\Users\Fishman\Documents\GitHub\DzпImapPost_18_12_2023\obj\Debug\net6.0-windo
 C:\Users\Fishman\Documents\GitHub\DzпImapPost_18_12_2023\obj\Debug\net6.0-windows\DzпImapPost_18_12_2023.pdb
 C:\Users\Fishman\Documents\GitHub\DzпImapPost_18_12_2023\obj\Debug\net6.0-windows\DzпImapPost_18_12_2023.genruntimeconfig.cache
 C:\Users\Fishman\Documents\GitHub\DzпImapPost_18_12_2023\obj\Debug\net6.0-windows\ref\DzпImapPost_18_12_2023.dll
+C:\Users\Fishman\Documents\GitHub\DzпImapPost_18_12_2023\obj\Debug\net6.0-windows\DzпImapPost_18_12_2023.sourcelink.json

@@ -55,11 +55,11 @@
         <Button    x:Name="buttSend" Content="отправить письмо"
                    Grid.Column="1" Grid.Row="4" 
                    Grid.ColumnSpan="2" Grid.RowSpan="1"
-                   Margin="5"/>
+                   Margin="5" Click="buttSend_Click"/>
         <Button    x:Name="buttReg" Content="Регистрация"
                    Grid.Column="6" Grid.Row="4" 
                    Grid.ColumnSpan="2" Grid.RowSpan="1"
-                   Margin="5"/>
+                   Margin="5" Click="buttReg_Click"/>
     </Grid>
    
 </Window>
